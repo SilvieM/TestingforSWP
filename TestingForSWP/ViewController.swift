@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         
         print("Noch ein text")
         
+        print("bla")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
